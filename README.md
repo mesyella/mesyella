@@ -6,7 +6,7 @@ Currently I'm still learning some programming language and working on some proje
 - 🌱 I’m currently learning Laravel, HTML, CSS, and python
 - 📫 Reach me by email: mesyella@gmail.com
 
-## Languages I learned and still learning 
+#### Languages I learned and still learning 
 <a href="https://www.github.com/mesyella"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
 <a href="https://www.github.com/mesyella"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></a>
 <a href="https://www.github.com/mesyella"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"></a>
