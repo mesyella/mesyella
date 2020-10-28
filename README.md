@@ -10,6 +10,9 @@ Currently I'm still learning some programming language and working on some proje
 ### Design Portofolio
 https://drive.google.com/drive/folders/11t55OYvAgt03HpXQx4RBf8Ifff6rmG_5?usp=sharing
 
+### Curriculum Vitae
+https://drive.google.com/file/d/1gbyxT_KhDsBZ3TDzIBBA_BliOg14i3Pk/view?usp=sharing
+
 ### Languages I learned and still learning 
 <a href="https://www.github.com/mesyella"><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>
 <a href="https://www.github.com/mesyella"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></a>
