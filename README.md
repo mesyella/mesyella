@@ -5,7 +5,7 @@ Currently I'm still learning some programming language and working on some proje
 - 🔭 I’m currently working on Laravel and Computer Vision Projects 
 - 🌱 I’m currently learning Laravel, HTML, CSS, and python
 - 📫 Reach me by email: mesyella@gmail.com
-- 🖥 Check my organization experience and part time experience at my [linkedIn] (https://www.linkedin.com/in/mesyella-41770a173/)
+- 🖥 Check my organization experience and part time experience at my [linkedIn](https://www.linkedin.com/in/mesyella-41770a173/)
 
 ### Design Portofolio
 https://drive.google.com/drive/folders/11t55OYvAgt03HpXQx4RBf8Ifff6rmG_5?usp=sharing
