@@ -34,4 +34,4 @@ https://drive.google.com/file/d/1gbyxT_KhDsBZ3TDzIBBA_BliOg14i3Pk/view?usp=shari
   </p>
 </p>
 
-<img width="100%" src="./footer.png" />
+<img width="100%" src="./footer2.png" />
