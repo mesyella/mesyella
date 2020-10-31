@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1gbyxT_KhDsBZ3TDzIBBA_BliOg14i3Pk/view?usp=shari
 <a href="https://www.github.com/mesyella"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></a>
 <a href="https://www.github.com/mesyella"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></a>
 
-<img align="center" alt="Mesyella's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesyella&show_icons=true&hide_border=true" />
+<img align="center" alt="Mesyella's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesyella&langs_below=1&layout=compact" />
 <img align="center" alt="Mesyella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mesyella&show_icons=true&hide_border=true" />
 <hr>
 <p align="center">
