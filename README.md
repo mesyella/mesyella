@@ -1,4 +1,4 @@
-<img width="100%" height="80%' src="./header2.png" />
+<img width="100%" height="80%" src="./header2.png" />
 
 # Hi there, My name is Mesyella 👋 
 
