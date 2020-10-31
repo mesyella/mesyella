@@ -1,6 +1,6 @@
-<img width="100%" src="./header2.png" />
+<img width="100%" height="80%' src="./header2.png" />
 
-### Hi there, My name is Mesyella 👋 
+# Hi there, My name is Mesyella 👋 
 
 I'm a Computer Science Student at Binus University and streaming in Intelligence System. 
 Currently I'm still learning some programming language and working on some projects.
