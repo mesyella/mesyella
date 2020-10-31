@@ -1,4 +1,4 @@
-<img width="100%" height="80%" src="./header.png" />
+<img width="100%" height="80%" src="./headerImg.png" />
 
 # Hi there, My name is Mesyella 👋 
 
@@ -36,4 +36,4 @@ https://drive.google.com/file/d/1gbyxT_KhDsBZ3TDzIBBA_BliOg14i3Pk/view?usp=shari
   </p>
 </p>
 
-<img width="100%" src="./footer.png" />
+<img width="100%" src="./footerImg.png" />
