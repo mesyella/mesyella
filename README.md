@@ -22,7 +22,7 @@ https://drive.google.com/file/d/1gbyxT_KhDsBZ3TDzIBBA_BliOg14i3Pk/view?usp=shari
 <a href="https://www.github.com/mesyella"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></a>
 
 <img align="center" alt="Mesyella's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesyella&hide_langs_below=1&layout=compact" />
-<img align="center" alt="Mesyella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mesyella&show_icons=true&hide_border=true" />
+<img align="center" alt="Mesyella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mesyella&show_icons=true&hide_border=true&title_color=#ffffff&icon_color=#bb2acf&bg_color=191919" />
 
 <hr>
 <p align="center">
