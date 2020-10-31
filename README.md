@@ -1,3 +1,4 @@
+<img width="100%" src="./header.png" />
 ### Hi there, My name is Mesyella 👋 
 
 I'm a Computer Science Student at Binus University and streaming in Intelligence System. 
